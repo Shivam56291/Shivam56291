@@ -13,7 +13,7 @@
 🎓 BCA Student | 💻 Web Developer in progress | ☕ Java, React, Spring, PostgreSQL  
 🚀 Exploring the world of tech, one project at a time.  
 
-    </td>
+  </td>
     <td style="vertical-align: middle;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" height="100" alt="coding gif" />
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="130" height="100" alt="dev gif" />
