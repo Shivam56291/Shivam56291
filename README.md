@@ -6,7 +6,9 @@
 
 ## 🌐 About Me
 🎓 BCA Student | 💻 Web Developer in progress | ☕ Java, React, Spring, PostgreSQL  
-🚀 Exploring the world of tech, one project at a time.  
+🚀 Exploring the world of tech, one project at a time. 
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 
 ---
 
@@ -40,11 +42,33 @@
 ---
 
 ## 📌 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=worldwise&theme=radical)](https://github.com/shivam56291/worldwise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/shivam56291/RoomKhojo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/Shivam56291/bankist-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/Shivam56291/Amour-Weather)
 
+<p align="center">
+  <a href="https://github.com/Shivam56291/worldwise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=worldwise&theme=radical" />
+  </a>
+  <a href="https://github.com/Shivam56291/basic-workout-timer-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=basic-workout-timer-react&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shivam56291/DSA-Practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=DSA-Practice&theme=radical" />
+  </a>
+  <a href="https://github.com/Shivam56291/SpringBoot-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=SpringBoot-Projects&theme=radical" />
+  </a>
+</p>
+
+
+
+---
+
+
+## ☕ Coffee & Code
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="coffee gif" />  
+💡 Fueled by coffee & curiosity!  
 
 ---
 
