@@ -8,18 +8,28 @@
 🎓 BCA Student | 💻 Web Developer in progress | ☕ Java, React, Spring, PostgreSQL  
 🚀 Exploring the world of tech, one project at a time. 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" height="100" alt="coding gif" />
 
 ---
 
 ## 🔧 Tech Stack
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
@@ -44,8 +54,8 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Shivam56291/worldwise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=worldwise&theme=radical" />
+  <a href="https://github.com/Shivam56291/bankist-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=bankist-project&theme=radical" />
   </a>
   <a href="https://github.com/Shivam56291/basic-workout-timer-react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=basic-workout-timer-react&theme=radical" />
@@ -53,24 +63,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shivam56291/DSA-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=DSA-Practice&theme=radical" />
+  <a href="https://github.com/Shivam56291/Amour-Weather">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=Amour-Weather&theme=radical" />
   </a>
-  <a href="https://github.com/Shivam56291/SpringBoot-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=SpringBoot-Projects&theme=radical" />
+  <a href="https://github.com/Shivam56291/pizza-menu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=pizza-menu&theme=radical" />
   </a>
 </p>
 
 
-
 ---
 
-
-## ☕ Coffee & Code
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="coffee gif" />  
-💡 Fueled by coffee & curiosity!  
-
----
 
 ## 💡 Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Keep+learning.+Keep+building.+Stay+unstoppable.)
