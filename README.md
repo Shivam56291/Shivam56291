@@ -23,25 +23,28 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam56291&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam56291&theme=radical" height="180"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=ffffff&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivam56291&bg_color=0D1117&color=ffffff&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/shivam56291/github-readme-activity-graph)
 
 ---
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivam56291&theme=radical&margin-w=15&margin-h=15)](https://github.com/shivam56291/github-profile-trophy)
 
 ---
 
 ## 📌 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=worldwise&theme=radical)](https://github.com/YOUR_USERNAME/worldwise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=RoomKhojo&theme=radical)](https://github.com/YOUR_USERNAME/RoomKhojo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=worldwise&theme=radical)](https://github.com/shivam56291/worldwise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/shivam56291/RoomKhojo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/Shivam56291/bankist-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivam56291&repo=RoomKhojo&theme=radical)](https://github.com/Shivam56291/Amour-Weather)
+
 
 ---
 
@@ -51,7 +54,7 @@
 ---
 
 ## 👁️‍🗨️ Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=shivam56291&style=for-the-badge&color=blue)
 
 ---
 
