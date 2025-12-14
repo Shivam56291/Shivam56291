@@ -97,7 +97,7 @@ I am a **BCA Undergraduate** focused on architecting and deploying **scalable so
   <a href="mailto:shivamkmar06@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D9483C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link"/>
   </a>
-  <a href="[https://linkedin.com/in/shivam-kumar](https://www.linkedin.com/in/shivam-kumar-619509164/)">
+  <a href="https://www.linkedin.com/in/shivam-kumar-619509164">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
