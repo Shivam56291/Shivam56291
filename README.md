@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shivam%20Kumar&fontSize=40&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Shivam!;Polyglot+Engineer+%7C+BCA+Undergraduate;Full+Stack+Developer+%26+DevOps+Enthusiast;Building+Scalable+Solutions+in+Java%2C+TS%2C+%26+Go)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shivam!;Polyglot+Engineer+%7C+BCA+Undergraduate;Full+Stack+Developer+%26+DevOps+Enthusiast;Building+Scalable+Solutions+in+Java%2C+TS%2C+%26+Go)](https://git.io/typing-svg)
 
 ---
 
@@ -12,11 +12,11 @@
 
 ### 👨‍💻 Aspiring Software Engineer with Technical Breadth
 
-I am a **BCA Undergraduate** focused on architecting and deploying scalable software systems. My development philosophy is rooted in versatility, allowing me to comfortably switch between diverse languages to choose the right tool for the job.
+I am a **BCA Undergraduate** focused on architecting and deploying **scalable software systems**. My philosophy is rooted in versatility, leveraging technologies like **Java Spring Boot**, **TypeScript (NestJS)**, **Go**, and **Python** to build efficient, production-ready solutions.
 
-* **Polyglot Proficiency:** Experienced in **Java (Spring Boot)**, **TypeScript (NestJS)**, **Go**, and **Python**.
-* **System Builder:** Specialized in full-stack development, from low-latency backend microservices to high-performance client UIs (React/Next.js).
-* **Infrastructure Ready:** Hands-on knowledge of **Docker, Kubernetes, and Jenkins** for continuous deployment and infrastructure management.
+* **Key Focus:** System Design, Microservices, and API optimization.
+* **Full Stack:** Proficient in **React/Next.js** and both Node.js & JVM backends.
+* **Infrastructure Ready:** Hands-on knowledge of **Docker, Kubernetes, and Jenkins** fundamentals for CI/CD and deployment.
 
     </td>
     <td width="35%" style="vertical-align: middle;">
@@ -59,7 +59,7 @@ I am a **BCA Undergraduate** focused on architecting and deploying scalable soft
 **Backend Frameworks (JVM & Enterprise)**
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=micro-services&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=micro-services&logoColor=white) 
 
 **Databases**
 <br>
@@ -89,43 +89,51 @@ I am a **BCA Undergraduate** focused on architecting and deploying scalable soft
 
 ---
 
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivam56291&theme=radical&margin-w=15&margin-h=15)](https://github.com/shivam56291/github-profile-trophy)
+## 📄 Resume & Contact
+<p align="center">
+  <a href="https://drive.google.com/file/d/1bz3q5DZu460a6wlnDvV67gRscekDcwO4/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume%20(Full%20Details)-4A90E2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link"/>
+  </a>
+  <a href="mailto:shivamkmar06@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D9483C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link"/>
+  </a>
+  <a href="https://linkedin.com/in/shivam-kumar">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 Featured Projects (Showcasing Full Stack Capability)
 
-### 🚀 Backend & Microservices
-<p align="center">
-  <a href="https://github.com/Shivam56291/music-backend-nestjs-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=music-backend-nestjs-learning&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivam56291/Spring-LearningByDoing-EazySchool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=Spring-LearningByDoing-EazySchool&theme=radical" />
-  </a>
-</p>
-
-### ⚛️ Modern Frontend & Mobile
-<p align="center">
-  <a href="https://github.com/Shivam56291/react-the-wild-oasis-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=react-the-wild-oasis-booking&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivam56291/github-random-repo-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=github-random-repo-explorer&theme=radical" />
-  </a>
-</p>
-
-### 🛠️ Legacy & DevOps Showcase
-<p align="center">
-  <a href="https://github.com/Shivam56291/natours-node-learning-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=natours-node-learning-project&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivam56291/Jenkins-learning-programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=Jenkins-learning-programs&theme=radical" />
-  </a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Shivam56291/music-backend-nestjs-learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=music-backend-nestjs-learning&theme=radical" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Shivam56291/react-the-wild-oasis-booking">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=react-the-wild-oasis-booking&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Shivam56291/Spring-LearningByDoing-EazySchool">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=Spring-LearningByDoing-EazySchool&theme=radical" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Shivam56291/natours-node-learning-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=natours-node-learning-project&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
