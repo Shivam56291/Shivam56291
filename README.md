@@ -19,10 +19,14 @@ I am a **BCA Undergraduate** focused on architecting and deploying **scalable so
 * **Infrastructure Ready:** Hands-on knowledge of **Docker, Kubernetes, and Jenkins** fundamentals for CI/CD and deployment.
 
     </td>
-    <td width="35%" style="vertical-align: middle;">
-      <div align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="coding gif" />
-      </div>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+        style="max-width: 260px; width: 100%; height: auto;"
+        alt="coding gif"
+      />
+      <br/><br/>
+      <sub><b>Building • Learning • Shipping</b></sub>
     </td>
   </tr>
 </table>
@@ -74,18 +78,16 @@ I am a **BCA Undergraduate** focused on architecting and deploying **scalable so
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam56291&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam56291&theme=radical" height="180"/>
-</p>
 
 ---
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam56291&theme=dark" />
+</div>
 
-## 📈 Activity Graph
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivam56291&bg_color=0D1117&color=ffffff&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/shivam56291/github-readme-activity-graph)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam56291&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam56291&theme=dark" />
+</div>
 
 ---
 
@@ -104,47 +106,6 @@ I am a **BCA Undergraduate** focused on architecting and deploying **scalable so
 
 ---
 
-## 📌 Featured Projects (Showcasing Full Stack Capability)
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Shivam56291/music-backend-nestjs-learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=music-backend-nestjs-learning&theme=radical" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Shivam56291/react-the-wild-oasis-booking">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=react-the-wild-oasis-booking&theme=radical" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Shivam56291/Spring-LearningByDoing-EazySchool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=Spring-LearningByDoing-EazySchool&theme=radical" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Shivam56291/natours-node-learning-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam56291&repo=natours-node-learning-project&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 💡 Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+create+it.+Build+the+solution.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+great+developer+you+know+got+there+by+solving+problems+they+were+unqualified+to+solve+until+they+did+it.)
 
----
-
-## 👁️‍🗨️ Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=shivam56291&style=for-the-badge&color=blue)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
